@@ -1,5 +1,5 @@
 module.exports = {
-	name: ".COM | California Closets", // optional, falls back to object key
+	name: "California Closets", // optional, falls back to object key
 	description: "Most Popular pages for California Closets",
 	options: {
 		frequency: 60 * 23, // 23 hours
