@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 12 * * 0"
 
 jobs:
   run-tests:
@@ -56,3 +56,4 @@ jobs:
             git commit -m "Commit results"
             git push -u $ORIGIN results
           fi
+          
