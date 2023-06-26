@@ -30,6 +30,6 @@ module.exports = {
 		"https://www.californiaclosets.ca/en/living-area/",
 		"https://www.californiaclosets.ca/en/garage/storage-cabinets/",
 		"https://www.californiaclosets.ca/en/how-we-work/design-to-your-budget/",
-		"https://www.californiaclosets.ca/en/storage/laundry-rooms/laundry-room-accessories/
+		"https://www.californiaclosets.ca/en/storage/laundry-rooms/laundry-room-accessories/"
 	]
 };
