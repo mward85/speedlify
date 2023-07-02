@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.com/laundry-rooms/",
+  "requestedUrl": "https://www.californiaclosets.com/laundry-rooms/",
+  "timestamp": 1688305014707,
+  "ranks": {
+    "hundos": 18,
+    "performance": 21,
+    "accessibility": 26,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.4,
+    "accessibility": 0.83,
+    "bestPractices": 1,
+    "seo": 0.83,
+    "total": 306
+  },
+  "firstContentfulPaint": 2947.4280000000003,
+  "firstMeaningfulPaint": 2947.4280000000003,
+  "speedIndex": 5198.53256952259,
+  "largestContentfulPaint": 4954.190499999999,
+  "totalBlockingTime": 604.0000000000009,
+  "cumulativeLayoutShift": 0.32695550388760036,
+  "timeToInteractive": 11047.828,
+  "maxPotentialFirstInputDelay": 169,
+  "timeToFirstByte": 19.339,
+  "weight": {
+    "summary": "130 requests • 1,590 KiB",
+    "total": 1628376,
+    "image": 419371,
+    "imageCount": 36,
+    "script": 676938,
+    "scriptCount": 61,
+    "document": 173106,
+    "font": 172256,
+    "fontCount": 12,
+    "stylesheet": 173065,
+    "stylesheetCount": 6,
+    "thirdParty": 1210800,
+    "thirdPartyCount": 71
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 14,
+    "+weight.total": 24,
+    "-weight.document": 23,
+    "+weight.document": 14,
+    "-weight.script": 26,
+    "+weight.script": 12,
+    "-weight.image": 15,
+    "+weight.image": 23,
+    "-weight.font": 20,
+    "+weight.font": 4,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 30,
+    "-totalBlockingTime": 19,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 1162,
+    "violations": 5
+  }
+}
