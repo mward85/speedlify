@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/living-area/mudrooms/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/living-area/mudrooms/",
+  "timestamp": 1688906028874,
+  "ranks": {
+    "hundos": 16,
+    "performance": 16,
+    "accessibility": 14,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.34,
+    "accessibility": 0.91,
+    "bestPractices": 0.92,
+    "seo": 0.83,
+    "total": 300
+  },
+  "firstContentfulPaint": 3420.8490000000006,
+  "firstMeaningfulPaint": 4152.171,
+  "speedIndex": 7096.026100402157,
+  "largestContentfulPaint": 7543.0515,
+  "totalBlockingTime": 856.5,
+  "cumulativeLayoutShift": 0.040052033106486,
+  "timeToInteractive": 12053.396499999999,
+  "maxPotentialFirstInputDelay": 370.9999999999991,
+  "timeToFirstByte": 1757.861,
+  "weight": {
+    "summary": "163 requests • 2,736 KiB",
+    "total": 2801286,
+    "image": 1228481,
+    "imageCount": 60,
+    "script": 1165251,
+    "scriptCount": 61,
+    "document": 69028,
+    "font": 221252,
+    "fontCount": 11,
+    "stylesheet": 114257,
+    "stylesheetCount": 18,
+    "thirdParty": 2447638,
+    "thirdPartyCount": 108
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 17,
+    "-weight.document": 19,
+    "+weight.document": 7,
+    "-weight.script": 7,
+    "+weight.script": 19,
+    "-weight.image": 9,
+    "+weight.image": 17,
+    "-weight.font": 19,
+    "+weight.font": 5,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 19,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 17
+  },
+  "axe": {
+    "passes": 1830,
+    "violations": 39
+  }
+}
