@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.com/family-room/",
+  "requestedUrl": "https://www.californiaclosets.com/family-room/",
+  "timestamp": 1689512906554,
+  "ranks": {
+    "hundos": 16,
+    "performance": 17,
+    "accessibility": 19,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.46,
+    "accessibility": 0.83,
+    "bestPractices": 1,
+    "seo": 0.9,
+    "total": 319
+  },
+  "firstContentfulPaint": 2858.919,
+  "firstMeaningfulPaint": 2858.919,
+  "speedIndex": 4031.0873776389512,
+  "largestContentfulPaint": 5200.276000000001,
+  "totalBlockingTime": 459.5,
+  "cumulativeLayoutShift": 0.32695550388760036,
+  "timeToInteractive": 9335.003999999999,
+  "maxPotentialFirstInputDelay": 152,
+  "timeToFirstByte": 21.426999999999996,
+  "weight": {
+    "summary": "121 requests • 1,396 KiB",
+    "total": 1429780,
+    "image": 447376,
+    "imageCount": 32,
+    "script": 451215,
+    "scriptCount": 57,
+    "document": 172075,
+    "font": 172254,
+    "fontCount": 12,
+    "stylesheet": 173322,
+    "stylesheetCount": 6,
+    "thirdParty": 1009550,
+    "thirdPartyCount": 62
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 18,
+    "+weight.total": 20,
+    "-weight.document": 18,
+    "+weight.document": 20,
+    "-weight.script": 26,
+    "+weight.script": 12,
+    "-weight.image": 19,
+    "+weight.image": 19,
+    "-weight.font": 18,
+    "+weight.font": 6,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 33,
+    "-totalBlockingTime": 14,
+    "-largestContentfulPaint": 13
+  },
+  "axe": {
+    "passes": 1184,
+    "violations": 5
+  }
+}
