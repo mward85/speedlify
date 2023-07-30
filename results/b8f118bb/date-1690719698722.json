@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/location/edmonton/murphy-bed-edmonton/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/location/edmonton/murphy-bed-edmonton/",
+  "timestamp": 1690721602536,
+  "ranks": {
+    "hundos": 9,
+    "performance": 10,
+    "accessibility": 3,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.32,
+    "accessibility": 0.93,
+    "bestPractices": 0.92,
+    "seo": 0.82,
+    "total": 299
+  },
+  "firstContentfulPaint": 3348.5500000000006,
+  "firstMeaningfulPaint": 4123.8355,
+  "speedIndex": 6265.793502013408,
+  "largestContentfulPaint": 9162.1305,
+  "totalBlockingTime": 1055.000000000001,
+  "cumulativeLayoutShift": 0.038829973644680445,
+  "timeToInteractive": 13399.155,
+  "maxPotentialFirstInputDelay": 364.0000000000018,
+  "timeToFirstByte": 1561.186,
+  "weight": {
+    "summary": "128 requests • 2,050 KiB",
+    "total": 2099362,
+    "image": 511460,
+    "imageCount": 27,
+    "script": 1221049,
+    "scriptCount": 61,
+    "document": 56978,
+    "font": 192648,
+    "fontCount": 9,
+    "stylesheet": 114361,
+    "stylesheetCount": 18,
+    "thirdParty": 1774679,
+    "thirdPartyCount": 82
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 24,
+    "-weight.document": 2,
+    "+weight.document": 24,
+    "-weight.script": 1,
+    "+weight.script": 25,
+    "-weight.image": 2,
+    "+weight.image": 24,
+    "-weight.font": 3,
+    "+weight.font": 22,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 23
+  },
+  "axe": {
+    "passes": 1068,
+    "violations": 12
+  }
+}
