@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/location/toronto/closet-design-toronto/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/location/toronto/closet-design-toronto/",
+  "timestamp": 1691324912760,
+  "ranks": {
+    "hundos": 7,
+    "performance": 8,
+    "accessibility": 4,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.36,
+    "accessibility": 0.93,
+    "bestPractices": 0.92,
+    "seo": 0.82,
+    "total": 303
+  },
+  "firstContentfulPaint": 3440.629,
+  "firstMeaningfulPaint": 5806.110999999999,
+  "speedIndex": 5539.41846600417,
+  "largestContentfulPaint": 7778.493499999998,
+  "totalBlockingTime": 732.4999999999991,
+  "cumulativeLayoutShift": 0.13090190018547906,
+  "timeToInteractive": 11959.386999999999,
+  "maxPotentialFirstInputDelay": 284,
+  "timeToFirstByte": 1243.8480000000002,
+  "weight": {
+    "summary": "127 requests • 1,710 KiB",
+    "total": 1750531,
+    "image": 190429,
+    "imageCount": 26,
+    "script": 1191577,
+    "scriptCount": 61,
+    "document": 57314,
+    "font": 192684,
+    "fontCount": 9,
+    "stylesheet": 115626,
+    "stylesheetCount": 18,
+    "thirdParty": 1423840,
+    "thirdPartyCount": 81
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 25,
+    "-weight.document": 1,
+    "+weight.document": 25,
+    "-weight.script": 15,
+    "+weight.script": 11,
+    "-weight.image": 1,
+    "+weight.image": 25,
+    "-weight.font": 6,
+    "+weight.font": 19,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 1073,
+    "violations": 15
+  }
+}
