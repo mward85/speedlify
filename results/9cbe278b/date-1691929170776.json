@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/bedroom/murphy-beds/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/bedroom/murphy-beds/",
+  "timestamp": 1691930876702,
+  "ranks": {
+    "hundos": 18,
+    "performance": 19,
+    "accessibility": 10,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.3,
+    "accessibility": 0.91,
+    "bestPractices": 0.92,
+    "seo": 0.83,
+    "total": 296
+  },
+  "firstContentfulPaint": 3401.3070000000007,
+  "firstMeaningfulPaint": 4268.906999999998,
+  "speedIndex": 7558.031371611436,
+  "largestContentfulPaint": 8039.185999999998,
+  "totalBlockingTime": 1070,
+  "cumulativeLayoutShift": 0.040052033106486,
+  "timeToInteractive": 12472.778000000002,
+  "maxPotentialFirstInputDelay": 468,
+  "timeToFirstByte": 1783.201,
+  "weight": {
+    "summary": "169 requests • 3,164 KiB",
+    "total": 3239999,
+    "image": 1635506,
+    "imageCount": 64,
+    "script": 1192436,
+    "scriptCount": 62,
+    "document": 71362,
+    "font": 221198,
+    "fontCount": 11,
+    "stylesheet": 116344,
+    "stylesheetCount": 19,
+    "thirdParty": 2889736,
+    "thirdPartyCount": 114
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 19,
+    "+weight.total": 7,
+    "-weight.document": 23,
+    "+weight.document": 3,
+    "-weight.script": 10,
+    "+weight.script": 16,
+    "-weight.image": 19,
+    "+weight.image": 7,
+    "-weight.font": 13,
+    "+weight.font": 13,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 16,
+    "-totalBlockingTime": 13,
+    "-largestContentfulPaint": 16
+  },
+  "axe": {
+    "passes": 1867,
+    "violations": 39
+  }
+}
