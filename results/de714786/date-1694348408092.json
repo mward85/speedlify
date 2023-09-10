@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/living-area/entertainment-centre/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/living-area/entertainment-centre/",
+  "timestamp": 1694348739163,
+  "ranks": {
+    "hundos": 17,
+    "performance": 17,
+    "accessibility": 11,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.3,
+    "accessibility": 0.91,
+    "bestPractices": 0.92,
+    "seo": 0.83,
+    "total": 296
+  },
+  "firstContentfulPaint": 3136.038,
+  "firstMeaningfulPaint": 3837.6760000000004,
+  "speedIndex": 8037.431843538828,
+  "largestContentfulPaint": 7095.503000000001,
+  "totalBlockingTime": 1280.500000000001,
+  "cumulativeLayoutShift": 0.040052033106486,
+  "timeToInteractive": 10659.583999999999,
+  "maxPotentialFirstInputDelay": 493,
+  "timeToFirstByte": 2620.1330000000003,
+  "weight": {
+    "summary": "146 requests • 2,297 KiB",
+    "total": 2351800,
+    "image": 1269144,
+    "imageCount": 60,
+    "script": 672820,
+    "scriptCount": 46,
+    "document": 69545,
+    "font": 221204,
+    "fontCount": 11,
+    "stylesheet": 116041,
+    "stylesheetCount": 19,
+    "thirdParty": 2004073,
+    "thirdPartyCount": 91
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 10,
+    "+weight.total": 16,
+    "-weight.document": 19,
+    "+weight.document": 7,
+    "-weight.script": 14,
+    "+weight.script": 11,
+    "-weight.image": 10,
+    "+weight.image": 16,
+    "-weight.font": 14,
+    "+weight.font": 12,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 16,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 14
+  },
+  "axe": {
+    "passes": 1768,
+    "violations": 39
+  }
+}
