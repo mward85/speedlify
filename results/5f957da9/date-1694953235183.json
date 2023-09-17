@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.com/pantry/",
+  "requestedUrl": "https://www.californiaclosets.com/pantry/",
+  "timestamp": 1694958032340,
+  "ranks": {
+    "hundos": 10,
+    "performance": 8,
+    "accessibility": 28,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.44,
+    "accessibility": 0.81,
+    "bestPractices": 1,
+    "seo": 0.9,
+    "total": 315
+  },
+  "firstContentfulPaint": 3027.9919999999997,
+  "firstMeaningfulPaint": 3027.9919999999997,
+  "speedIndex": 4074.855918585864,
+  "largestContentfulPaint": 4959.498,
+  "totalBlockingTime": 558.0000000000005,
+  "cumulativeLayoutShift": 0.32738408936394586,
+  "timeToInteractive": 9621.851999999997,
+  "maxPotentialFirstInputDelay": 244,
+  "timeToFirstByte": 14.100999999999999,
+  "weight": {
+    "summary": "110 requests • 1,305 KiB",
+    "total": 1336343,
+    "image": 495425,
+    "imageCount": 30,
+    "script": 411998,
+    "scriptCount": 49,
+    "document": 67491,
+    "font": 172253,
+    "fontCount": 12,
+    "stylesheet": 176278,
+    "stylesheetCount": 7,
+    "thirdParty": 928907,
+    "thirdPartyCount": 53
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 23,
+    "+weight.total": 15,
+    "-weight.document": 23,
+    "+weight.document": 15,
+    "-weight.script": 16,
+    "+weight.script": 22,
+    "-weight.image": 23,
+    "+weight.image": 15,
+    "-weight.font": 16,
+    "+weight.font": 7,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 13,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 1181,
+    "violations": 9
+  }
+}
