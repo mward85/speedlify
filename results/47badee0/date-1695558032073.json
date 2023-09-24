@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/living-area/entryways/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/living-area/entryways/",
+  "timestamp": 1695559219180,
+  "ranks": {
+    "hundos": 20,
+    "performance": 21,
+    "accessibility": 11,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.36,
+    "accessibility": 0.91,
+    "bestPractices": 0.92,
+    "seo": 0.83,
+    "total": 302
+  },
+  "firstContentfulPaint": 3130.648,
+  "firstMeaningfulPaint": 3847.319499999999,
+  "speedIndex": 6842.8801489760845,
+  "largestContentfulPaint": 6144.162999999999,
+  "totalBlockingTime": 1009.298499999999,
+  "cumulativeLayoutShift": 0.040052033106486,
+  "timeToInteractive": 11352.076999999997,
+  "maxPotentialFirstInputDelay": 408,
+  "timeToFirstByte": 2148.583,
+  "weight": {
+    "summary": "145 requests • 2,373 KiB",
+    "total": 2429709,
+    "image": 1347699,
+    "imageCount": 60,
+    "script": 670743,
+    "scriptCount": 46,
+    "document": 70512,
+    "font": 221194,
+    "fontCount": 11,
+    "stylesheet": 116373,
+    "stylesheetCount": 19,
+    "thirdParty": 2080232,
+    "thirdPartyCount": 90
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 12,
+    "+weight.total": 14,
+    "-weight.document": 21,
+    "+weight.document": 5,
+    "-weight.script": 18,
+    "+weight.script": 8,
+    "-weight.image": 11,
+    "+weight.image": 15,
+    "-weight.font": 15,
+    "+weight.font": 11,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 22,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 1770,
+    "violations": 39
+  }
+}
