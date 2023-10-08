@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/bedroom/custom-closets/finishes/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/bedroom/custom-closets/finishes/",
+  "timestamp": 1696768567416,
+  "ranks": {
+    "hundos": 21,
+    "performance": 7,
+    "accessibility": 24,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.41,
+    "accessibility": 0.75,
+    "bestPractices": 1,
+    "seo": 0.86,
+    "total": 302
+  },
+  "firstContentfulPaint": 3396.8640000000005,
+  "firstMeaningfulPaint": 4370.7970000000005,
+  "speedIndex": 6475.689042897322,
+  "largestContentfulPaint": 6537.8575,
+  "totalBlockingTime": 629.4999999999993,
+  "cumulativeLayoutShift": 0.038829973644680445,
+  "timeToInteractive": 11489.892,
+  "maxPotentialFirstInputDelay": 327.99999999999955,
+  "timeToFirstByte": 1244.124,
+  "weight": {
+    "summary": "140 requests • 16,364 KiB",
+    "total": 16757026,
+    "image": 15598869,
+    "imageCount": 43,
+    "script": 724630,
+    "scriptCount": 50,
+    "document": 63290,
+    "font": 239131,
+    "fontCount": 13,
+    "stylesheet": 117817,
+    "stylesheetCount": 19,
+    "thirdParty": 16415200,
+    "thirdPartyCount": 90
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 25,
+    "+weight.total": 1,
+    "-weight.document": 7,
+    "+weight.document": 19,
+    "-weight.script": 18,
+    "+weight.script": 8,
+    "-weight.image": 25,
+    "+weight.image": 1,
+    "-weight.font": 25,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 1244,
+    "violations": 29
+  }
+}
