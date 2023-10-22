@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.com/entertainment-center/",
+  "requestedUrl": "https://www.californiaclosets.com/entertainment-center/",
+  "timestamp": 1697981378941,
+  "ranks": {
+    "hundos": 26,
+    "performance": 24,
+    "accessibility": 19,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.47,
+    "accessibility": 0.81,
+    "bestPractices": 1,
+    "seo": 0.9,
+    "total": 318
+  },
+  "firstContentfulPaint": 2934.006,
+  "firstMeaningfulPaint": 3210.2455,
+  "speedIndex": 4035.458232222993,
+  "largestContentfulPaint": 4574.936,
+  "totalBlockingTime": 550.5000000000009,
+  "cumulativeLayoutShift": 0.32636037042405874,
+  "timeToInteractive": 8406.912500000002,
+  "maxPotentialFirstInputDelay": 219,
+  "timeToFirstByte": 12.762999999999998,
+  "weight": {
+    "summary": "109 requests • 1,321 KiB",
+    "total": 1353140,
+    "image": 500319,
+    "imageCount": 32,
+    "script": 396924,
+    "scriptCount": 47,
+    "document": 68531,
+    "font": 196035,
+    "fontCount": 11,
+    "stylesheet": 176955,
+    "stylesheetCount": 7,
+    "thirdParty": 942868,
+    "thirdPartyCount": 52
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 22,
+    "+weight.total": 16,
+    "-weight.document": 28,
+    "+weight.document": 10,
+    "-weight.script": 21,
+    "+weight.script": 17,
+    "-weight.image": 25,
+    "+weight.image": 13,
+    "-weight.font": 11,
+    "+weight.font": 9,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 28,
+    "-totalBlockingTime": 33,
+    "-largestContentfulPaint": 8
+  },
+  "axe": {
+    "passes": 1074,
+    "violations": 5
+  }
+}
