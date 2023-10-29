@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.com/paxton/",
+  "requestedUrl": "https://www.californiaclosets.com/paxton/",
+  "timestamp": 1698587157115,
+  "ranks": {
+    "hundos": 6,
+    "performance": 5,
+    "accessibility": 4,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.42,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.89,
+    "total": 321
+  },
+  "firstContentfulPaint": 2958.56,
+  "firstMeaningfulPaint": 3433.8279999999995,
+  "speedIndex": 3583.74385321179,
+  "largestContentfulPaint": 7613.943000000001,
+  "totalBlockingTime": 464,
+  "cumulativeLayoutShift": 0.321743519253201,
+  "timeToInteractive": 8255.732000000002,
+  "maxPotentialFirstInputDelay": 185,
+  "timeToFirstByte": 62.048,
+  "weight": {
+    "summary": "101 requests • 2,288 KiB",
+    "total": 2343021,
+    "image": 1616517,
+    "imageCount": 29,
+    "script": 296152,
+    "scriptCount": 43,
+    "document": 60295,
+    "font": 178669,
+    "fontCount": 10,
+    "stylesheet": 177005,
+    "stylesheetCount": 7,
+    "thirdParty": 1954058,
+    "thirdPartyCount": 48
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 34,
+    "+weight.total": 4,
+    "-weight.document": 5,
+    "+weight.document": 33,
+    "-weight.script": 2,
+    "+weight.script": 36,
+    "-weight.image": 36,
+    "+weight.image": 2,
+    "-weight.font": 5,
+    "+weight.font": 11,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 32,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 37
+  },
+  "axe": {
+    "passes": 1098,
+    "violations": 4
+  }
+}
