@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/garage/storage-cabinets/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/garage/storage-cabinets/",
+  "timestamp": 1700398883930,
+  "ranks": {
+    "hundos": 12,
+    "performance": 15,
+    "accessibility": 5,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.45,
+    "accessibility": 0.86,
+    "bestPractices": 0.92,
+    "seo": 0.83,
+    "total": 306
+  },
+  "firstContentfulPaint": 3192.0825000000004,
+  "firstMeaningfulPaint": 4199.563500000001,
+  "speedIndex": 5841.698925240915,
+  "largestContentfulPaint": 6738.696000000001,
+  "totalBlockingTime": 491.5,
+  "cumulativeLayoutShift": 0.038829973644680445,
+  "timeToInteractive": 11732.6155,
+  "maxPotentialFirstInputDelay": 266,
+  "timeToFirstByte": 1783.03,
+  "weight": {
+    "summary": "152 requests • 2,898 KiB",
+    "total": 2967598,
+    "image": 1619006,
+    "imageCount": 50,
+    "script": 923748,
+    "scriptCount": 55,
+    "document": 69386,
+    "font": 221203,
+    "fontCount": 11,
+    "stylesheet": 118289,
+    "stylesheetCount": 19,
+    "thirdParty": 2616093,
+    "thirdPartyCount": 97
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 17,
+    "-weight.document": 15,
+    "+weight.document": 11,
+    "-weight.script": 18,
+    "+weight.script": 8,
+    "-weight.image": 9,
+    "+weight.image": 17,
+    "-weight.font": 11,
+    "+weight.font": 15,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 19,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 14
+  },
+  "axe": {
+    "passes": 1937,
+    "violations": 40
+  }
+}
