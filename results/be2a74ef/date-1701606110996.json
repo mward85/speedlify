@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/storage/laundry-rooms/laundry-room-accessories/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/storage/laundry-rooms/laundry-room-accessories/",
+  "timestamp": 1701606968438,
+  "ranks": {
+    "hundos": 2,
+    "performance": 1,
+    "accessibility": 8,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.52,
+    "accessibility": 0.85,
+    "bestPractices": 0.92,
+    "seo": 0.83,
+    "total": 312
+  },
+  "firstContentfulPaint": 3261.014,
+  "firstMeaningfulPaint": 4130.062,
+  "speedIndex": 5393.924699473377,
+  "largestContentfulPaint": 4478.033500000001,
+  "totalBlockingTime": 380.5,
+  "cumulativeLayoutShift": 0.18868625619676382,
+  "timeToInteractive": 11653.315999999999,
+  "maxPotentialFirstInputDelay": 201,
+  "timeToFirstByte": 1603.96,
+  "weight": {
+    "summary": "143 requests • 2,521 KiB",
+    "total": 2581784,
+    "image": 1268406,
+    "imageCount": 45,
+    "script": 925627,
+    "scriptCount": 54,
+    "document": 62127,
+    "font": 192631,
+    "fontCount": 9,
+    "stylesheet": 117463,
+    "stylesheetCount": 18,
+    "thirdParty": 2243010,
+    "thirdPartyCount": 96
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 21,
+    "-weight.document": 7,
+    "+weight.document": 19,
+    "-weight.script": 19,
+    "+weight.script": 7,
+    "-weight.image": 5,
+    "+weight.image": 21,
+    "-weight.font": 1,
+    "+weight.font": 25,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 12,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 1592,
+    "violations": 31
+  }
+}

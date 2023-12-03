@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/before-and-after/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/before-and-after/",
+  "timestamp": 1701608535393,
+  "ranks": {
+    "hundos": 24,
+    "performance": 24,
+    "accessibility": 5,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.36,
+    "accessibility": 0.86,
+    "bestPractices": 0.92,
+    "seo": 0.82,
+    "total": 296
+  },
+  "firstContentfulPaint": 3172.8935,
+  "firstMeaningfulPaint": 4120.4125,
+  "speedIndex": 5630.9418778233485,
+  "largestContentfulPaint": 5266.135000000001,
+  "totalBlockingTime": 610.3500000000004,
+  "cumulativeLayoutShift": 0.386234160317315,
+  "timeToInteractive": 11606.920999999998,
+  "maxPotentialFirstInputDelay": 292,
+  "timeToFirstByte": 1504.137,
+  "weight": {
+    "summary": "157 requests • 7,943 KiB",
+    "total": 8133699,
+    "image": 6813300,
+    "imageCount": 57,
+    "script": 931839,
+    "scriptCount": 56,
+    "document": 61495,
+    "font": 192711,
+    "fontCount": 9,
+    "stylesheet": 119175,
+    "stylesheetCount": 19,
+    "thirdParty": 7791153,
+    "thirdPartyCount": 107
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 24,
+    "+weight.total": 2,
+    "-weight.document": 5,
+    "+weight.document": 21,
+    "-weight.script": 25,
+    "+weight.script": 1,
+    "-weight.image": 24,
+    "+weight.image": 2,
+    "-weight.font": 7,
+    "+weight.font": 19,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 24,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 1793,
+    "violations": 30
+  }
+}
