@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/bedroom/walk-in-closets/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/bedroom/walk-in-closets/",
+  "timestamp": 1702212440038,
+  "ranks": {
+    "hundos": 18,
+    "performance": 19,
+    "accessibility": 20,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.41,
+    "accessibility": 0.91,
+    "bestPractices": 0.92,
+    "seo": 0.83,
+    "total": 307
+  },
+  "firstContentfulPaint": 3283.237,
+  "firstMeaningfulPaint": 4284.097,
+  "speedIndex": 5870.491323345135,
+  "largestContentfulPaint": 7849.161,
+  "totalBlockingTime": 472.5,
+  "cumulativeLayoutShift": 0.14397791947258845,
+  "timeToInteractive": 11856.205999999998,
+  "maxPotentialFirstInputDelay": 270,
+  "timeToFirstByte": 1689.216,
+  "weight": {
+    "summary": "141 requests • 2,150 KiB",
+    "total": 2201992,
+    "image": 851543,
+    "imageCount": 39,
+    "script": 922569,
+    "scriptCount": 55,
+    "document": 72726,
+    "font": 221345,
+    "fontCount": 11,
+    "stylesheet": 117923,
+    "stylesheetCount": 19,
+    "thirdParty": 1847653,
+    "thirdPartyCount": 86
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 13,
+    "+weight.total": 13,
+    "-weight.document": 23,
+    "+weight.document": 3,
+    "-weight.script": 9,
+    "+weight.script": 17,
+    "-weight.image": 13,
+    "+weight.image": 13,
+    "-weight.font": 16,
+    "+weight.font": 9,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 15,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 19
+  },
+  "axe": {
+    "passes": 1955,
+    "violations": 42
+  }
+}

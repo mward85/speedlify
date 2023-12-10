@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/bedroom/wardrobe/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/bedroom/wardrobe/",
+  "timestamp": 1702213022753,
+  "ranks": {
+    "hundos": 14,
+    "performance": 15,
+    "accessibility": 21,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.42,
+    "accessibility": 0.91,
+    "bestPractices": 0.92,
+    "seo": 0.83,
+    "total": 308
+  },
+  "firstContentfulPaint": 3285.9159999999993,
+  "firstMeaningfulPaint": 4202.785,
+  "speedIndex": 6107.5693402424495,
+  "largestContentfulPaint": 6682.353,
+  "totalBlockingTime": 488,
+  "cumulativeLayoutShift": 0.1425672650867038,
+  "timeToInteractive": 11887.363499999996,
+  "maxPotentialFirstInputDelay": 273.9999999999982,
+  "timeToFirstByte": 1916.2830000000001,
+  "weight": {
+    "summary": "139 requests • 1,825 KiB",
+    "total": 1869238,
+    "image": 521604,
+    "imageCount": 37,
+    "script": 922632,
+    "scriptCount": 55,
+    "document": 70079,
+    "font": 221425,
+    "fontCount": 11,
+    "stylesheet": 117766,
+    "stylesheetCount": 19,
+    "thirdParty": 1517899,
+    "thirdPartyCount": 84
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 23,
+    "-weight.document": 16,
+    "+weight.document": 10,
+    "-weight.script": 11,
+    "+weight.script": 15,
+    "-weight.image": 3,
+    "+weight.image": 23,
+    "-weight.font": 20,
+    "+weight.font": 5,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 19,
+    "-totalBlockingTime": 15,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 1954,
+    "violations": 43
+  }
+}
