@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/details/sliding-doors/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/details/sliding-doors/",
+  "timestamp": 1703422442304,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 7,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.52,
+    "accessibility": 0.91,
+    "bestPractices": 0.92,
+    "seo": 0.83,
+    "total": 318
+  },
+  "firstContentfulPaint": 3279.568,
+  "firstMeaningfulPaint": 4123.836000000001,
+  "speedIndex": 5113.442382613039,
+  "largestContentfulPaint": 4499.824999999999,
+  "totalBlockingTime": 375.5,
+  "cumulativeLayoutShift": 0.18868625619676382,
+  "timeToInteractive": 11767.712999999998,
+  "maxPotentialFirstInputDelay": 212,
+  "timeToFirstByte": 1346.771,
+  "weight": {
+    "summary": "174 requests • 2,738 KiB",
+    "total": 2803963,
+    "image": 1492906,
+    "imageCount": 78,
+    "script": 924150,
+    "scriptCount": 53,
+    "document": 61844,
+    "font": 192694,
+    "fontCount": 9,
+    "stylesheet": 116764,
+    "stylesheetCount": 17,
+    "thirdParty": 2467121,
+    "thirdPartyCount": 129
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 19,
+    "-weight.document": 4,
+    "+weight.document": 22,
+    "-weight.script": 4,
+    "+weight.script": 22,
+    "-weight.image": 8,
+    "+weight.image": 18,
+    "-weight.font": 5,
+    "+weight.font": 21,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 1367,
+    "violations": 30
+  }
+}
