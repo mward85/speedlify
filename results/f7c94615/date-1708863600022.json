@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.com/bedroom/",
+  "requestedUrl": "https://www.californiaclosets.com/bedroom/",
+  "timestamp": 1708866238913,
+  "ranks": {
+    "hundos": 5,
+    "performance": 5,
+    "accessibility": 6,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.78,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 0.89,
+    "total": 359
+  },
+  "firstContentfulPaint": 3068.233,
+  "firstMeaningfulPaint": 3068.233,
+  "speedIndex": 3117.9003521949244,
+  "largestContentfulPaint": 3266.581,
+  "totalBlockingTime": 59.5,
+  "cumulativeLayoutShift": 0.14582470258076988,
+  "timeToInteractive": 7192.594,
+  "maxPotentialFirstInputDelay": 113,
+  "timeToFirstByte": 11.825000000000003,
+  "weight": {
+    "summary": "83 requests • 946 KiB",
+    "total": 968684,
+    "image": 192849,
+    "imageCount": 18,
+    "script": 279619,
+    "scriptCount": 40,
+    "document": 75117,
+    "font": 226151,
+    "fontCount": 9,
+    "stylesheet": 180437,
+    "stylesheetCount": 5,
+    "thirdParty": 503353,
+    "thirdPartyCount": 34
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 34,
+    "-weight.document": 9,
+    "+weight.document": 28,
+    "-weight.script": 2,
+    "+weight.script": 36,
+    "-weight.image": 3,
+    "+weight.image": 35,
+    "-weight.font": 7,
+    "+weight.font": 29,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 17,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 959,
+    "violations": 4
+  }
+}
