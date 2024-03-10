@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/how-we-work/design-to-your-budget/decorative-hardware/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/how-we-work/design-to-your-budget/decorative-hardware/",
+  "timestamp": 1710073524727,
+  "ranks": {
+    "hundos": 6,
+    "performance": 4,
+    "accessibility": 22,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.43,
+    "accessibility": 0.91,
+    "bestPractices": 0.92,
+    "seo": 0.83,
+    "total": 309
+  },
+  "firstContentfulPaint": 3247.2795000000006,
+  "firstMeaningfulPaint": 4114.508999999999,
+  "speedIndex": 5408.902467977652,
+  "largestContentfulPaint": 4327.156999999999,
+  "totalBlockingTime": 740.9999999999982,
+  "cumulativeLayoutShift": 0.18868625619676382,
+  "timeToInteractive": 14856.299500000001,
+  "maxPotentialFirstInputDelay": 228,
+  "timeToFirstByte": 1381.7479999999998,
+  "weight": {
+    "summary": "194 requests • 3,585 KiB",
+    "total": 3671479,
+    "image": 2139122,
+    "imageCount": 96,
+    "script": 1144436,
+    "scriptCount": 56,
+    "document": 63771,
+    "font": 192676,
+    "fontCount": 9,
+    "stylesheet": 116368,
+    "stylesheetCount": 17,
+    "thirdParty": 3332461,
+    "thirdPartyCount": 149
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 19,
+    "+weight.total": 7,
+    "-weight.document": 8,
+    "+weight.document": 18,
+    "-weight.script": 11,
+    "+weight.script": 15,
+    "-weight.image": 19,
+    "+weight.image": 7,
+    "-weight.font": 4,
+    "+weight.font": 21,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 1746,
+    "violations": 42
+  }
+}
