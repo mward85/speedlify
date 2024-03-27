@@ -1,0 +1,26 @@
+{
+  "url": "https://www.californiaclosets.com/by-collection/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 35,
+    "+weight.total": 35,
+    "-weight.document": 35,
+    "+weight.document": 35,
+    "-weight.script": 35,
+    "+weight.script": 35,
+    "-weight.image": 35,
+    "+weight.image": 35,
+    "-weight.font": 31,
+    "+weight.font": 31,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 35,
+    "-totalBlockingTime": 32,
+    "-largestContentfulPaint": 35
+  },
+  "previousRanks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 9,
+    "cumulative": 1
+  }
+}
