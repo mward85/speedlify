@@ -1,0 +1,20 @@
+{
+  "url": "https://www.californiaclosets.com/virtuoso/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 35,
+    "+weight.total": 35,
+    "-weight.document": 35,
+    "+weight.document": 35,
+    "-weight.script": 34,
+    "+weight.script": 34,
+    "-weight.image": 35,
+    "+weight.image": 35,
+    "-weight.font": 34,
+    "+weight.font": 34,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 35,
+    "-totalBlockingTime": 35,
+    "-largestContentfulPaint": 35
+  }
+}
