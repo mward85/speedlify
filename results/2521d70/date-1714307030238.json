@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/fr/chambre-coucher/garde-robe-walk-in/",
+  "requestedUrl": "https://www.californiaclosets.ca/fr/chambre-coucher/garde-robe-walk-in/",
+  "timestamp": 1714308305426,
+  "ranks": {
+    "hundos": 3,
+    "performance": 22,
+    "accessibility": 20,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.34,
+    "accessibility": 0.99,
+    "bestPractices": 0.92,
+    "seo": 0.91,
+    "total": 316
+  },
+  "firstContentfulPaint": 3404.669,
+  "firstMeaningfulPaint": 4387.683000000001,
+  "speedIndex": 6659.705094744759,
+  "largestContentfulPaint": 7914.747000000001,
+  "totalBlockingTime": 736.9424999999992,
+  "cumulativeLayoutShift": 0.11130638111962214,
+  "timeToInteractive": 15536.783000000003,
+  "maxPotentialFirstInputDelay": 268,
+  "timeToFirstByte": 1743.1950000000002,
+  "weight": {
+    "summary": "174 requests • 3,095 KiB",
+    "total": 3168933,
+    "image": 1559429,
+    "imageCount": 72,
+    "script": 1170400,
+    "scriptCount": 57,
+    "document": 76732,
+    "font": 221294,
+    "fontCount": 11,
+    "stylesheet": 125515,
+    "stylesheetCount": 18,
+    "thirdParty": 2785441,
+    "thirdPartyCount": 125
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 12,
+    "+weight.total": 14,
+    "-weight.document": 25,
+    "+weight.document": 1,
+    "-weight.script": 15,
+    "+weight.script": 10,
+    "-weight.image": 12,
+    "+weight.image": 14,
+    "-weight.font": 18,
+    "+weight.font": 7,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 20,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 18
+  },
+  "axe": {
+    "passes": 1799,
+    "violations": 30
+  }
+}
