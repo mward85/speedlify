@@ -1,0 +1,20 @@
+{
+  "url": "https://www.californiaclosets.com/paxton/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 36,
+    "+weight.total": 36,
+    "-weight.document": 32,
+    "+weight.document": 32,
+    "-weight.script": 36,
+    "+weight.script": 36,
+    "-weight.image": 35,
+    "+weight.image": 35,
+    "-weight.font": 33,
+    "+weight.font": 33,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 36,
+    "-totalBlockingTime": 35,
+    "-largestContentfulPaint": 36
+  }
+}
