@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.com/wine-storage/",
+  "requestedUrl": "https://www.californiaclosets.com/wine-storage/",
+  "timestamp": 1720962545110,
+  "ranks": {
+    "hundos": 31,
+    "performance": 18,
+    "accessibility": 33,
+    "cumulative": 31
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.85,
+    "accessibility": 0.97,
+    "bestPractices": 0.92,
+    "seo": 0.92,
+    "total": 366
+  },
+  "firstContentfulPaint": 2223.8559999999998,
+  "firstMeaningfulPaint": 2223.8559999999998,
+  "speedIndex": 2868.1993159485455,
+  "largestContentfulPaint": 2950.1610000000005,
+  "totalBlockingTime": 113.5,
+  "cumulativeLayoutShift": 0.004626703792148167,
+  "timeToInteractive": 7983.816499999999,
+  "maxPotentialFirstInputDelay": 169,
+  "timeToFirstByte": 12.372,
+  "weight": {
+    "summary": "109 requests • 1,362 KiB",
+    "total": 1395052,
+    "image": 567236,
+    "imageCount": 32,
+    "script": 424838,
+    "scriptCount": 48,
+    "document": 61901,
+    "font": 260814,
+    "fontCount": 11,
+    "stylesheet": 64029,
+    "stylesheetCount": 4,
+    "thirdParty": 1012972,
+    "thirdPartyCount": 49
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 32,
+    "+weight.total": 4,
+    "-weight.document": 25,
+    "+weight.document": 7,
+    "-weight.script": 26,
+    "+weight.script": 10,
+    "-weight.image": 32,
+    "+weight.image": 4,
+    "-weight.font": 24,
+    "+weight.font": 9,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 23,
+    "-totalBlockingTime": 30,
+    "-largestContentfulPaint": 15
+  },
+  "axe": {
+    "passes": 1038,
+    "violations": 4
+  }
+}
