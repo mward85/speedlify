@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.com/linenhall-closet/",
+  "requestedUrl": "https://www.californiaclosets.com/linenhall-closet/",
+  "timestamp": 1721567519652,
+  "ranks": {
+    "hundos": 19,
+    "performance": 10,
+    "accessibility": 30,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.86,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.85,
+    "total": 361
+  },
+  "firstContentfulPaint": 2178.227,
+  "firstMeaningfulPaint": 2178.227,
+  "speedIndex": 2608.6202668215365,
+  "largestContentfulPaint": 2959.6309999999994,
+  "totalBlockingTime": 104.5,
+  "cumulativeLayoutShift": 0.004681452751159668,
+  "timeToInteractive": 7991.048999999999,
+  "maxPotentialFirstInputDelay": 151,
+  "timeToFirstByte": 9.400000000000002,
+  "weight": {
+    "summary": "106 requests • 1,193 KiB",
+    "total": 1221958,
+    "image": 396091,
+    "imageCount": 28,
+    "script": 424761,
+    "scriptCount": 48,
+    "document": 60039,
+    "font": 260785,
+    "fontCount": 11,
+    "stylesheet": 64053,
+    "stylesheetCount": 4,
+    "thirdParty": 842519,
+    "thirdPartyCount": 46
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 22,
+    "+weight.total": 14,
+    "-weight.document": 19,
+    "+weight.document": 16,
+    "-weight.script": 27,
+    "+weight.script": 9,
+    "-weight.image": 23,
+    "+weight.image": 13,
+    "-weight.font": 19,
+    "+weight.font": 16,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 30,
+    "-totalBlockingTime": 23,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 1038,
+    "violations": 4
+  }
+}
