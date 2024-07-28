@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.com/playroomstorage/",
+  "requestedUrl": "https://www.californiaclosets.com/playroomstorage/",
+  "timestamp": 1722172544450,
+  "ranks": {
+    "hundos": 20,
+    "performance": 12,
+    "accessibility": 31,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.86,
+    "accessibility": 0.97,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 375
+  },
+  "firstContentfulPaint": 2257.654,
+  "firstMeaningfulPaint": 2257.654,
+  "speedIndex": 3062.9036629971642,
+  "largestContentfulPaint": 2944.5175,
+  "totalBlockingTime": 103.50000000000136,
+  "cumulativeLayoutShift": 0.004206174108717177,
+  "timeToInteractive": 7489.547,
+  "maxPotentialFirstInputDelay": 152,
+  "timeToFirstByte": 13.511000000000003,
+  "weight": {
+    "summary": "105 requests • 1,177 KiB",
+    "total": 1205084,
+    "image": 380011,
+    "imageCount": 28,
+    "script": 423813,
+    "scriptCount": 48,
+    "document": 60023,
+    "font": 260851,
+    "fontCount": 11,
+    "stylesheet": 64108,
+    "stylesheetCount": 4,
+    "thirdParty": 825200,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 21,
+    "+weight.total": 15,
+    "-weight.document": 21,
+    "+weight.document": 12,
+    "-weight.script": 24,
+    "+weight.script": 11,
+    "-weight.image": 21,
+    "+weight.image": 15,
+    "-weight.font": 28,
+    "+weight.font": 8,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 16,
+    "-totalBlockingTime": 25,
+    "-largestContentfulPaint": 14
+  },
+  "axe": {
+    "passes": 1038,
+    "violations": 4
+  }
+}
