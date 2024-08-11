@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.com/pandora/",
+  "requestedUrl": "https://www.californiaclosets.com/pandora/",
+  "timestamp": 1723381746241,
+  "ranks": {
+    "hundos": 34,
+    "performance": 35,
+    "accessibility": 31,
+    "cumulative": 34
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.57,
+    "accessibility": 0.97,
+    "bestPractices": 1,
+    "seo": 0.86,
+    "total": 340
+  },
+  "firstContentfulPaint": 3664.8990000000003,
+  "firstMeaningfulPaint": 3664.8990000000003,
+  "speedIndex": 3664.8990000000003,
+  "largestContentfulPaint": 6841.567,
+  "totalBlockingTime": 277.5,
+  "cumulativeLayoutShift": 0.0025036678314208985,
+  "timeToInteractive": 8245.719000000001,
+  "maxPotentialFirstInputDelay": 189,
+  "timeToFirstByte": 8.994,
+  "weight": {
+    "summary": "104 requests • 2,548 KiB",
+    "total": 2609542,
+    "image": 1739329,
+    "imageCount": 36,
+    "script": 378084,
+    "scriptCount": 43,
+    "document": 48311,
+    "font": 250539,
+    "fontCount": 10,
+    "stylesheet": 179243,
+    "stylesheetCount": 4,
+    "thirdParty": 2162621,
+    "thirdPartyCount": 54
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 33,
+    "+weight.total": 3,
+    "-weight.document": 2,
+    "+weight.document": 32,
+    "-weight.script": 16,
+    "+weight.script": 20,
+    "-weight.image": 35,
+    "+weight.image": 1,
+    "-weight.font": 7,
+    "+weight.font": 26,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 24,
+    "-totalBlockingTime": 30,
+    "-largestContentfulPaint": 35
+  },
+  "axe": {
+    "passes": 965,
+    "violations": 7
+  }
+}

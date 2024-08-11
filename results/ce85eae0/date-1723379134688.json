@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/fr/chambre-coucher/penderie/",
+  "requestedUrl": "https://www.californiaclosets.ca/fr/chambre-coucher/penderie/",
+  "timestamp": 1723380449350,
+  "ranks": {
+    "hundos": 4,
+    "performance": 20,
+    "accessibility": 21,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.32,
+    "accessibility": 0.99,
+    "bestPractices": 0.92,
+    "seo": 0.91,
+    "total": 314
+  },
+  "firstContentfulPaint": 3581.4515,
+  "firstMeaningfulPaint": 4502.608000000001,
+  "speedIndex": 7950.317652787875,
+  "largestContentfulPaint": 5866.7170000000015,
+  "totalBlockingTime": 935.5000000000009,
+  "cumulativeLayoutShift": 0.09118756612141929,
+  "timeToInteractive": 15594.002500000002,
+  "maxPotentialFirstInputDelay": 275.0000000000009,
+  "timeToFirstByte": 2630.715,
+  "weight": {
+    "summary": "126 requests • 1,912 KiB",
+    "total": 1958185,
+    "image": 270817,
+    "imageCount": 26,
+    "script": 1238461,
+    "scriptCount": 57,
+    "document": 77238,
+    "font": 233019,
+    "fontCount": 11,
+    "stylesheet": 122932,
+    "stylesheetCount": 15,
+    "thirdParty": 1601780,
+    "thirdPartyCount": 82
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 22,
+    "-weight.document": 23,
+    "+weight.document": 2,
+    "-weight.script": 14,
+    "+weight.script": 12,
+    "-weight.image": 4,
+    "+weight.image": 22,
+    "-weight.font": 15,
+    "+weight.font": 8,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 25,
+    "-totalBlockingTime": 14,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 1846,
+    "violations": 30
+  }
+}
