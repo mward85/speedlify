@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiaclosets.ca/en/bedroom/reach-in-closets/",
+  "requestedUrl": "https://www.californiaclosets.ca/en/bedroom/reach-in-closets/",
+  "timestamp": 1723984734279,
+  "ranks": {
+    "hundos": 20,
+    "performance": 21,
+    "accessibility": 19,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.28,
+    "accessibility": 0.99,
+    "bestPractices": 0.92,
+    "seo": 0.84,
+    "total": 303
+  },
+  "firstContentfulPaint": 3549.1425,
+  "firstMeaningfulPaint": 4573.7375,
+  "speedIndex": 6762.439049311173,
+  "largestContentfulPaint": 7635.202000000002,
+  "totalBlockingTime": 969.5,
+  "cumulativeLayoutShift": 0.14610984293619791,
+  "timeToInteractive": 15566.718,
+  "maxPotentialFirstInputDelay": 291,
+  "timeToFirstByte": 1766.602,
+  "weight": {
+    "summary": "127 requests • 1,925 KiB",
+    "total": 1970759,
+    "image": 279660,
+    "imageCount": 27,
+    "script": 1243717,
+    "scriptCount": 57,
+    "document": 74953,
+    "font": 233110,
+    "fontCount": 11,
+    "stylesheet": 123363,
+    "stylesheetCount": 15,
+    "thirdParty": 1615279,
+    "thirdPartyCount": 83
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 21,
+    "-weight.document": 19,
+    "+weight.document": 7,
+    "-weight.script": 11,
+    "+weight.script": 15,
+    "-weight.image": 5,
+    "+weight.image": 21,
+    "-weight.font": 15,
+    "+weight.font": 10,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 21,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 1895,
+    "violations": 30
+  }
+}
